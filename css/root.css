@@ -12,10 +12,18 @@
     /* colores Principales */
 
     --color-texto: #000;
-    --color-btn: rgba(63, 63, 231, 0.784);
+    --color-btn: rgb(10, 10, 104);
 }
 
 html{
     font-size: 62.5%;
     overflow-x: hidden;
+}
+
+
+.contenedor {
+    width: 100%;
+    height: 2600px;
+    margin: 60px auto;
+    text-transform:lowercase;
 }

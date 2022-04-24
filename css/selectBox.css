@@ -1,0 +1,26 @@
+.seleccion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px auto;
+    z-index: 500;
+}
+
+.seleccion .titulo__secundario {
+    font-size: 23px;
+    padding: 10px 20px;
+    color: var(--color-btn);
+}
+
+.seleccion .formulario select {
+    font-size: 20px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding: 5px 7px;
+}
+
+.seleccion .formulario option {
+    text-decoration: none;
+    border: none;
+}

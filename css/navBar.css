@@ -2,7 +2,7 @@ header{
     position: fixed;
     top:0; left:0; right:0;
     z-index: 1000;
-    background-color: rgba(29, 29, 197, 0.589);
+    background-color: rgb(69, 69, 199);
     padding:2rem 9%;
     display: flex;
     align-items: center;
